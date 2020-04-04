@@ -1,6 +1,7 @@
 
 public class Caching {
 
+	privat boolean isOnGit = true;
 	private int number;
 
 	private boolean prime;
